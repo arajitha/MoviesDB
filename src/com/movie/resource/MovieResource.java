@@ -6,6 +6,10 @@ import javax.ws.rs.Produces;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+/**
+Movie Resource class
+*/
  
 @Path("/getUpcomingMovies")
 public class MovieResource {
